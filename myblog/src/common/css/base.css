@@ -1,0 +1,49 @@
+.nav-btn {
+  vertical-align: center;
+  text-align: center;
+  line-height: 50px;
+  width: 100px;
+  height: 50px;
+  font-size: 20px;
+  font-family: Arial;
+  color: black;
+  border-radius: 20px;
+}
+
+.deep-shadow{
+  background: -webkit-linear-gradient(#FFFFFF, #DFDFDF, #F8F8F8);
+  box-shadow: 10px 5px 10px #CCC;
+}
+
+.font-syl{
+  color: #969696;
+  font-size: 20px;
+  font-family: Arial;
+  font-weight: bold;
+}
+.common-font{
+  color: #969696;
+  font-size: 15px;
+  font-family: Arial;
+}
+
+.comm-input{
+  width: 380px;
+  height: 50px;
+  border-radius: 10px;
+  border: 1px solid #AFAFAF;
+  box-shadow: 10px 5px 10px #CCC;
+  font-size: 20px;
+  font-family: Arial;
+}
+
+.card-shadow{
+  border-radius: 20px;
+  box-shadow: 20px 20px 50px #ccc;
+  background: #fff;
+}
+
+.normal-shadow{
+  border-radius: 10px;
+  box-shadow: 10px 10px 25px #ccc;
+}
